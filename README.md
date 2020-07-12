@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
 **ujin2021/ujin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### ✏️HUFS ICE 18
+#### 💞Interest
+* Backend
+* Java, Python
+
+[![Tech Blog Badge](http://img.shields.io/badge/-My%20blog-black?style=flat-square&logo=github&link=https://ujin2021.github.io/)](https://ujin2021.github.io/) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fujin2021)](https://hits.seeyoufarm.com)
