@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 * Java, Python
 
 [![Tech Blog Badge](http://img.shields.io/badge/-My%20blog-black?style=flat-square&logo=github&link=https://ujin2021.github.io/)](https://ujin2021.github.io/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujin2021@gmail.com)](mailto:ujin2021@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fujin2021)](https://hits.seeyoufarm.com)
