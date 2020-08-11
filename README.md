@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #### ✏️HUFS ICE 18
 #### 💞Interest
 * Backend
-* Java, Python
+* jsp, django, express.js
 
 [![Tech Blog Badge](https://img.shields.io/badge/-Techblog-%2304BEB8?style=flat-square&link=https://https://ujin-dev.tistory.com//)](https://ujin-dev.tistory.com//) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujin2021@gmail.com)](mailto:ujin2021@gmail.com)
