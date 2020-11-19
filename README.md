@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 #### ✏️HUFS ICE 18
 #### 💞Interest
-* Backend
-* python, java, javascript
-* jsp, django, express.js
+* Backend, Cloud
+* python, java
+* HTML, JS, CSS
+* django, jsp, express.js
 * mysql, sqlite
 
 [![Tech Blog Badge](https://img.shields.io/badge/-Techblog-%2304BEB8?style=flat-square&link=https://https://ujin-dev.tistory.com//)](https://ujin-dev.tistory.com//) 
