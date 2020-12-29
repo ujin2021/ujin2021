@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### ✏️HUFS ICE 18
+#### ✏️HUFS ICE
 #### 💞Interest
 * Backend, Cloud
 * python
