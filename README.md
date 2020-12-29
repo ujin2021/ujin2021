@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 #### 💞Interest
 * Backend, Cloud
 * python
-* HTML, JS, CSS
-* django, express.js, jsp
+* django, express.js
 * mysql, sqlite
 
 [![Tech Blog Badge](https://img.shields.io/badge/-Techblog-%2304BEB8?style=flat-square&link=https://https://ujin-dev.tistory.com//)](https://ujin-dev.tistory.com//) 
