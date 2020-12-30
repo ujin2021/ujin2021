@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 #### ✏️HUFS ICE
 #### 💞Interest
-* Backend, Cloud
-* python
-* django, express.js
-* mysql, sqlite
+💜 Backend, Cloud <br>
+📗 python <br>
+💻 django, node <br>
+📚 mysql, sqlite <br>
+☁️ AWS <br>
 
 [![Tech Blog Badge](https://img.shields.io/badge/-Techblog-%2304BEB8?style=flat-square&link=https://https://ujin-dev.tistory.com//)](https://ujin-dev.tistory.com//) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujin2021@gmail.com)](mailto:ujin2021@gmail.com)
