@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #### ✏️HUFS ICE
 #### 💞Interest
 💜 Backend, Cloud <br>
-📗 python, java <br>
+📗 python, java, javascript <br>
 💻 node, django, spring <br>
 📚 mysql, sqlite <br>
 ☁️ AWS <br>
