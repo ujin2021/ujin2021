@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💜 Backend, Cloud <br>
 📗 python, java, javascript <br>
 💻 node, django, spring <br>
-📚 mysql, sqlite <br>
+📚 mysql, oracle, sqlite <br>
 ☁️ AWS <br>
 
 [![Tech Blog Badge](https://img.shields.io/badge/-Techblog-%2304BEB8?style=flat-square&link=https://https://ujin-dev.tistory.com//)](https://ujin-dev.tistory.com//) 
