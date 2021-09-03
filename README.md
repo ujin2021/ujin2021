@@ -1,9 +1,9 @@
 <h3 align="center"> 💬 Profile 💬 </h3>
 <p align="center">
-  <a href=""><img src="https://user-images.githubusercontent.com/53362054/131954823-441f643e-61b7-456b-9125-18d035e08656.png" style="width:20px;height:20px;padding:10px;"></a>
-  <span>Google DSC Member (2020.09 ~ 2021. 08)</span><br>
+  <a href="https://developers.google.com/community/dsc"><img src="https://user-images.githubusercontent.com/53362054/131954823-441f643e-61b7-456b-9125-18d035e08656.png" style="width:20px;height:20px;padding:10px;"></a>
+  Google DSC Member (2020.09 ~ 2021. 08)<br>
   <a href="https://www.depromeet.com/"><img src="https://user-images.githubusercontent.com/53362054/131954711-38beeac0-8196-404e-bd0a-aeb52aa1ae87.png" style="width:20px;height:20px;"></a> 
-  <span>디프만 10기 멤버 (2021. 09 ~ )</span>
+  디프만 10기 멤버 (2021. 09 ~ )
   
 <p>
 
