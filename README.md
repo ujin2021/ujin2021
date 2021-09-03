@@ -1,9 +1,11 @@
 <h3 align="center"> 💬 Profile 💬 </h3>
 <p align="center">
-  <a href="https://developers.google.com/community/dsc"><img src="https://user-images.githubusercontent.com/53362054/131954823-441f643e-61b7-456b-9125-18d035e08656.png" style="width:20px;height:20px;padding:10px;"></a>
-  Google DSC Member (2020.09 ~ 2021. 08)<br>
+  <a href="https://www.hufs.ac.kr/index.html"><img src="https://www.hufs.ac.kr/user/hufs/mycodyimages/new/logo_ft.png" style="width:30px;height:20px;"></a> 
+  &nbsp HUFS ICE 18 <br>
+  <a href="https://developers.google.com/community/dsc"><img src="https://user-images.githubusercontent.com/53362054/131954823-441f643e-61b7-456b-9125-18d035e08656.png" style="width:20px;height:20px;"></a>
+  &nbsp Google DSC Member (2020.09 ~ 2021. 08)<br>
   <a href="https://www.depromeet.com/"><img src="https://user-images.githubusercontent.com/53362054/131954711-38beeac0-8196-404e-bd0a-aeb52aa1ae87.png" style="width:20px;height:20px;"></a> 
-  디프만 10기 멤버 (2021. 09 ~ )
+  &nbsp 디프만 10기 멤버 (2021. 09 ~ )
   
 <p>
 
