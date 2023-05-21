@@ -26,7 +26,7 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://ujin-dev.tistory.com"><img src="https://img.shields.io/badge/-Techblog-%2304BEB8?style=flat-square&logo=tvtime&logoColor=white&link=https://https://ujin-dev.tistory.com"/></a>&nbsp
+  <a href="https://velog.io/@ujin2021"><img src="https://img.shields.io/badge/-Techblog-%2304BEB8?style=flat-square&logo=tvtime&logoColor=white&link=https://https://ujin-dev.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/dldbwls._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dldbwls._/"/></a>&nbsp
   <a href="mailto:ujin2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujin2021@gmail.com"/></a>
 </p>
